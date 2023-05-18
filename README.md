@@ -1,1 +1,2 @@
 # CySER-project
+Super fun data analytics project I did as part of the CySER program at WSU with my advisor Julia! This file contains the code to make a wordcloud from the data and the probabilistic topic modeling using LDA. My code is inspired by this LDA tutorial (https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0), with adaptations to work with the most current versions of the suggested libraries. 
